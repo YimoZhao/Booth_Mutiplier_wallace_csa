@@ -1,7 +1,7 @@
 # Booth Multiplier
 
 ## Overview
-This project is a 64-bit Booth multiplier, and the code is learned from @qian160. Below is his Zhihu and Github link homepage, which is very detailed about the principle and implementation of the Booth multiplier. I will not explain it here.
+This project is a 64-bit Booth multiplier. The code is learned from @qian16. Below is his Zhihu and Github link homepage. The principle and implementation of the Booth multiplier are very detailed. I will not explain it here. The difference is that I implemented a 64*64 multiplier, and I will update the code to transplant this multiplier to the RICS-V chip to support RV64IM in the future.
 
 - https://zhuanlan.zhihu.com/p/681686489
 - https://github.com/qian160/booth_wallace_mult32_signed
